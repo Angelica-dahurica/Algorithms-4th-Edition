@@ -1,7 +1,10 @@
 import java.util.Arrays;
 
+/**
+ * Created by txin15 on 2017/7/12.
+ */
 public class BinarySearch {
-    private static int rank(int key, int[] a){
+    public static int rank(int key, int[] a){
         // Array must be sorted.
         int lo = 0;
         int hi = a.length - 1;
