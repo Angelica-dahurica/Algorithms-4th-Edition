@@ -10,6 +10,7 @@
       <sourceFolder url="file://$MODULE_DIR$/Fundamentals/1.4 Analysis of Algorithms" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Fundamentals/1.5 Case Study_Union-Find" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Sorting/2.1 Elementary Sorts" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Sorting/2.2 Mergesort" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
