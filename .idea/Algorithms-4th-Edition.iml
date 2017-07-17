@@ -12,6 +12,7 @@
       <sourceFolder url="file://$MODULE_DIR$/Sorting/2.1 Elementary Sorts" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Sorting/2.2 Mergesort" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Sorting/2.3 Quicksort" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Sorting/2.4 Priority Queues" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
